@@ -106,9 +106,12 @@ header .logo {
     font-size: 1.5rem;
     color: #6ECCAF;
     font-weight: 700;
-    line-height: 1.75rem;
     text-align: left;
     display: inline-block;
+}
+
+header .logo a {
+    color: #6ECCAF;
 }
 
 
