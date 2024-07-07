@@ -50,7 +50,7 @@
                     <div class="kaspersky">
                         <img src="img/kaspersky.png" alt="">
                         <div class="kaspersky-info">
-                            <h2>pashok</h2>
+                            <h2>Евгений Касперский</h2>
                             <p>Российский программист, один из ведущих мировых специалистов 
                             в сфере информационной безопасности. Один из основателей, 
                             основной владелец и нынешний глава АО «Лаборатория Касперского» — 
@@ -67,7 +67,7 @@
                         <img src="img/kaspersky.png" alt="">
                         <div class="kaspersky-info">
                             <h2>Евгений Касперский</h2>
-                            <p>Виталь ты лох</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum magnam exercitationem itaque enim expedita, fugiat laudantium dolor illum ad reiciendis quo unde quam aut ullam, praesentium quod quis tempore cumque?</p>
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                         <img src="img/kaspersky.png" alt="">
                         <div class="kaspersky-info">
                             <h2>Евгений Касперский</h2>
-                            <p>Педик</p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque temporibus laudantium velit laboriosam molestias unde molestiae aut harum. Dignissimos, veritatis voluptates. Dolorem commodi ipsa quasi inventore facilis excepturi soluta quisquam.</p>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                         <img src="img/kaspersky.png" alt="">
                         <div class="kaspersky-info">
                             <h2>Евгений Касперский</h2>
-                            <p>и дурак</p>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum omnis ipsa illo fuga! Ea quas officia velit fuga iure aut incidunt magni consequatur, dolorum sequi cumque dolores labore nemo corporis.</p>
                         </div>
                     </div>
               </div>
@@ -122,70 +122,70 @@
 
         <div class="menu">
             <div class="dropdown-btn">
-                <p> Почему Виталик гей? </p>
+                <p> Lorem ipsum dolor sit amet. </p>
                 <svg class='arrow' width="33" height="20" viewBox="0 0 33 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M32.4323 16.2162L28.6485 20L16.2161 7.56757L3.78366 20L-0.00012207 16.2162L16.2161 0L32.4323 16.2162Z" fill="white"/>
                 </svg>
             </div>
               <div class="dropdown-container">
                 <p>
-                    потому что
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet excepturi cumque a ut consequuntur neque repudiandae maiores labore pariatur at.
                 </p>
               </div>
         </div>
 
         <div class="menu">
             <div class="dropdown-btn">
-                <p> Почему Виталик гей? </p>
+                <p> Lorem ipsum dolor sit amet. </p>
                 <svg class='arrow' width="33" height="20" viewBox="0 0 33 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M32.4323 16.2162L28.6485 20L16.2161 7.56757L3.78366 20L-0.00012207 16.2162L16.2161 0L32.4323 16.2162Z" fill="white"/>
                 </svg>
             </div>
               <div class="dropdown-container">
                 <p>
-                    потому что
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam quidem consequatur vero vitae eligendi facilis molestiae dicta animi, veniam odit labore quas cumque. Sed eius enim, ipsam voluptate distinctio debitis.
                 </p>
               </div>
         </div>
 
         <div class="menu">
             <div class="dropdown-btn">
-                <p> Почему Виталик гей? </p>
+                <p> Lorem ipsum dolor sit amet. </p>
                 <svg class='arrow' width="33" height="20" viewBox="0 0 33 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M32.4323 16.2162L28.6485 20L16.2161 7.56757L3.78366 20L-0.00012207 16.2162L16.2161 0L32.4323 16.2162Z" fill="white"/>
                 </svg>
             </div>
               <div class="dropdown-container">
                 <p>
-                    потому что
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur unde excepturi, vero quo enim facilis voluptas, eius consectetur optio totam et, nobis dolorum qui voluptates commodi ad delectus! Magnam, quos.
                 </p>
               </div>
         </div>
 
         <div class="menu">
             <div class="dropdown-btn">
-                <p> Почему Виталик гей? </p>
+                <p> Lorem ipsum dolor sit amet. </p>
                 <svg class='arrow' width="33" height="20" viewBox="0 0 33 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M32.4323 16.2162L28.6485 20L16.2161 7.56757L3.78366 20L-0.00012207 16.2162L16.2161 0L32.4323 16.2162Z" fill="white"/>
                 </svg>
             </div>
               <div class="dropdown-container">
                 <p>
-                    потому что
+                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto incidunt atque in sunt dolorum, autem reprehenderit nemo mollitia veritatis cupiditate. Recusandae provident rerum, sequi voluptatem quae exercitationem ipsa quisquam reiciendis.
                 </p>
               </div>
         </div>
 
         <div class="menu">
             <div class="dropdown-btn">
-                <p> Почему Виталик гей? </p>
+                <p> Lorem ipsum dolor sit amet. </p>
                 <svg class='arrow' width="33" height="20" viewBox="0 0 33 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M32.4323 16.2162L28.6485 20L16.2161 7.56757L3.78366 20L-0.00012207 16.2162L16.2161 0L32.4323 16.2162Z" fill="white"/>
                 </svg>
             </div>
               <div class="dropdown-container">
                 <p>
-                    потому что
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto blanditiis quis possimus aperiam facilis? Fuga officia debitis, ipsum eaque quam, quas earum sit, aliquid impedit iusto magnam beatae quo id!
                 </p>
               </div>
         </div>
