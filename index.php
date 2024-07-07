@@ -38,13 +38,13 @@
         <h1>Выдающиеся люди</h1>
             <div class="tab">
                 <input checked id="tab-btn-1" name="tab-btn" type="radio" value="">
-                <label for="tab-btn-1">pashok</label>
+                <label for="tab-btn-1">Евгений Касперский</label>
                 <input id="tab-btn-2" name="tab-btn" type="radio" value="">
-                <label for="tab-btn-2">pashok</label>
+                <label for="tab-btn-2">Евгений Касперский</label>
                 <input id="tab-btn-3" name="tab-btn" type="radio" value="">
-                <label for="tab-btn-3">pashok</label>
+                <label for="tab-btn-3">Евгений Касперский</label>
                 <input id="tab-btn-4" name="tab-btn" type="radio" value="">
-                <label for="tab-btn-4">pashok</label>
+                <label for="tab-btn-4">Евгений Касперский</label>
                 <div class="rectangle"></div>
                 <div class="tab-content" id="content-1">
                     <div class="kaspersky">
@@ -185,7 +185,7 @@
             </div>
               <div class="dropdown-container">
                 <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto blanditiis quis possimus aperiam facilis? Fuga officia debitis, ipsum eaque quam, quas earum sit, aliquid impedit iusto magnam beatae quo id!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur eius quod molestiae alias magni magnam corporis deleniti sequi amet, minima hic odio assumenda, illum non porro nisi quo? Qui, maiores.
                 </p>
               </div>
         </div>

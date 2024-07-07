@@ -314,13 +314,13 @@ header .header-info .menu .dropdown-container ul li a:hover {
 .tab > label {
     display: block;
     text-align: center;
-    line-height: 4.063rem;
+    padding: 1rem;
     cursor: pointer;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
     text-decoration: none;
     color: #fff;
     width: 24.9994%;
-    font-size: 2.25rem;
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
@@ -967,7 +967,7 @@ footer .ft-logo {
     }
 
     .tab > label {
-        font-size: 1.6rem;
+        font-size: 1.3rem;
     }
 }
 
